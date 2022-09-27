@@ -8,5 +8,7 @@
 
 
 execute: 
+
 chmod +x script*.sh
+
 ./script4.sh
