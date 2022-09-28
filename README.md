@@ -1,5 +1,3 @@
-## commits_tests.git
-
 
 
 
@@ -8,7 +6,5 @@
 
 
 execute: 
-
-chmod +x script*.sh
-
-./script4.sh
+	chmod +x script*.sh
+	./script4.sh
